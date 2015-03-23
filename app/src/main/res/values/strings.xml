@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dziennik Szkolny</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dodaj">DodajActivity</string>
+    <string name="title_activity_usun">UsunActivity</string>
+    <string name="title_activity_lista">ListaActivity</string>
+    <string name="title_activity_detale">DetaleActivity</string>
+</resources>
